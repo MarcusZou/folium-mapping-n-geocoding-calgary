@@ -1,0 +1,401 @@
+"city","country","pop2023","latitude","longitude","fill"
+"Toronto","Canada",2600000,43.7001,-79.4163,"#3288bd"
+"Montreal","Canada",1600000,45.5088,-73.5878,"#99d594"
+"Calgary","Canada",1019942,51.0501,-114.085,"#99d594"
+"Ottawa","Canada",812129,45.4112,-75.6981,"#e6f598"
+"Edmonton","Canada",712391,53.5501,-113.469,"#ffffbf"
+"Mississauga","Canada",668549,43.5789,-79.6583,"#ffffbf"
+"Winnipeg","Canada",632063,49.8844,-97.147,"#ffffbf"
+"Vancouver","Canada",600000,49.2497,-123.119,"#ffffbf"
+"Brampton","Canada",593638,43.6834,-79.7663,"#ffffbf"
+"Quebec","Canada",528595,46.8123,-71.2145,"#ffffbf"
+"Hamilton","Canada",519949,43.2501,-79.8496,"#ffffbf"
+"Laval","Canada",422993,45.57,-73.692,"#fee08b"
+"Surrey","Canada",394976,49.1063,-122.825,"#fee08b"
+"Halifax","Canada",359111,44.6464,-63.5729,"#fee08b"
+"London","Canada",346765,42.9834,-81.233,"#fee08b"
+"Markham","Canada",328966,43.8668,-79.2663,"#fee08b"
+"Vaughan","Canada",306233,43.8361,-79.4983,"#fee08b"
+"Okanagan","Canada",297601,50.3639,-119.35,"#fee08b"
+"Victoria","Canada",289625,48.4359,-123.352,"#fee08b"
+"Windsor","Canada",278013,42.3001,-83.0165,"#fee08b"
+"Gatineau","Canada",242124,45.4772,-75.7016,"#fc8d59"
+"Kitchener","Canada",233700,43.4254,-80.5112,"#fc8d59"
+"Longueuil","Canada",229330,45.5312,-73.5181,"#fc8d59"
+"Burnaby","Canada",202799,49.2664,-122.953,"#fc8d59"
+"Ladner","Canada",200000,49.0894,-123.082,"#fc8d59"
+"Saskatoon","Canada",198958,52.1324,-106.669
+"Richmond","Canada",198309,49.17,-123.137
+"Richmond Hill","Canada",195022,43.8711,-79.4372
+"Oakville","Canada",193832,43.4501,-79.6829
+"Burlington","Canada",183314,43.3862,-79.8371
+"Nepean","Canada",180000,45.3362,-75.7225
+"Regina","Canada",176183,50.4501,-104.618
+"Oshawa","Canada",166000,43.9001,-78.8496
+"Greater Sudbury","Canada",157857,46.49,-80.99
+"Saguenay","Canada",143692,48.4168,-71.0657
+"Levis","Canada",143414,46.8033,-71.1779
+"Kelowna","Canada",142146,49.8831,-119.486
+"Barrie","Canada",141434,44.4001,-79.6663
+"Abbotsford","Canada",141397,49.058,-122.253
+"Coquitlam","Canada",140000,49.2846,-122.782
+"St. Catharines","Canada",133113,43.1713,-79.2427
+"Cambridge","Canada",129920,43.3601,-80.3127
+"Sherbrooke","Canada",129447,45.4001,-71.8991
+"Trois-Rivieres","Canada",119693,46.3451,-72.5477
+"Ajax","Canada",119677,43.8501,-79.0329
+"Guelph","Canada",115760,43.5459,-80.256
+"Kingston","Canada",114195,44.2298,-76.481
+"Terrebonne","Canada",111575,45.7,-73.6473
+"Moncton","Canada",108620,46.0945,-64.7965
+"Thunder Bay","Canada",107909,48.382,-89.2502
+"Sydney","Canada",105968,46.1351,-60.1831
+"Waterloo","Canada",104986,43.4668,-80.5164
+"Milton","Canada",101715,43.5168,-79.8829
+"Delta","Canada",101668,49.144,-122.907
+"Dartmouth","Canada",101343,44.6713,-63.5772
+"St. John's","Canada",99182,47.5649,-52.7093
+"Saint-Jean-sur-Richelieu","Canada",98036,45.3071,-73.2626
+"Pickering","Canada",91771,43.9001,-79.1329
+"Nanaimo","Canada",90504,49.1664,-123.94
+"Kamloops","Canada",90280,50.6665,-120.319
+"Kanata","Canada",90000,45.3001,-75.9161
+"Brantford","Canada",87759,43.1334,-80.2664
+"Repentigny","Canada",84965,45.7422,-73.4501
+"Newmarket","Canada",84224,44.0501,-79.4663
+"Maple Ridge","Canada",82256,49.2194,-122.602
+"Niagara Falls","Canada",82000,43.1001,-79.0663
+"Peterborough","Canada",81032,44.3001,-78.3162
+"Willowdale","Canada",79440,43.7667,-79.3991
+"Saint-Laurent","Canada",77391,45.5001,-73.6658
+"Chilliwack","Canada",77000,49.1664,-121.953
+"La Haute-Saint-Charles","Canada",74070,46.8903,-71.3722
+"Prince George","Canada",74003,53.9166,-122.753
+"Red Deer","Canada",73593,52.2668,-113.802
+"Saint-Leonard","Canada",73423,45.5877,-73.595
+"Sarnia","Canada",72125,42.9787,-82.4041
+"Sherwood Park","Canada",70618,53.5168,-113.319
+"Lethbridge","Canada",70617,49.7,-112.819
+"Brossard","Canada",69575,45.4501,-73.4658
+"Saint John","Canada",67575,45.2708,-66.0562
+"Notre-Dame-de-Grace","Canada",67000,45.4767,-73.6143
+"Fort McMurray","Canada",66573,56.7268,-111.381
+"Caledon","Canada",66502,43.8654,-79.9932
+"White Rock","Canada",66450,49.0205,-122.795
+"Sault Ste. Marie","Canada",66313,46.5168,-84.3333
+"Granby","Canada",66222,45.4001,-72.7324
+"Waterfront Communities-The Island","Canada",65913,43.6339,-79.3772
+"Medicine Hat","Canada",63138,50.0393,-110.677
+"Norfolk County","Canada",60847,42.8334,-80.383
+"Drummondville","Canada",59489,45.8834,-72.4824
+"New Westminster","Canada",58549,49.2068,-122.911
+"Port Coquitlam","Canada",58000,49.2664,-122.769
+"St. Albert","Canada",57719,53.6334,-113.635
+"Aurora","Canada",55445,44.0001,-79.4663
+"Saint-Jerome","Canada",54948,45.7804,-74.0036
+"Jonquiere","Canada",54842,48.4165,-71.2488
+"Woburn","Canada",53485,43.7666,-79.2277
+"Fredericton","Canada",52337,45.9454,-66.6656
+"Welland","Canada",52293,42.9834,-79.2496
+"Belleville","Canada",50716,44.1668,-77.3828
+"Willowdale East","Canada",50434,43.7706,-79.4015
+"North Bay","Canada",50396,46.3168,-79.4663
+"Saint-Hyacinthe","Canada",50326,45.6308,-72.957
+"Dollard-Des Ormeaux","Canada",48930,45.4945,-73.8242
+"Brandon","Canada",48859,49.8469,-99.9531
+"Cornwall","Canada",48821,45.0181,-74.7281
+"Vernon Lake","Canada",48073,50.0261,-126.362
+"North Vancouver","Canada",48000,49.3164,-123.069
+"West End","Canada",47200,49.2833,-123.133
+"Rouge","Canada",46496,43.8041,-79.1657
+"Blainville","Canada",46493,45.6668,-73.8825
+"L'Amoreaux","Canada",43993,43.7957,-79.3141
+"Islington-City Centre West","Canada",43965,43.6335,-79.5433
+"Malvern","Canada",43794,43.8094,-79.2234
+"Quinte West","Canada",43577,44.1834,-77.5662
+"Chatham","Canada",43550,42.4122,-82.1849
+"Chateauguay","Canada",42786,45.3834,-73.7492
+"West Vancouver","Canada",42694,49.3667,-123.167
+"Salaberry-de-Valleyfield","Canada",42410,45.2501,-74.1325
+"Charlottetown","Canada",42402,46.2346,-63.1256
+"Rimouski","Canada",42240,48.4488,-68.524
+"Saint-Eustache","Canada",42062,45.565,-73.9055
+"Timmins","Canada",41788,48.4669,-81.3331
+"Sorel-Tracy","Canada",41629,46.0418,-73.1136
+"Grande Prairie","Canada",41462,55.1667,-118.803
+"Ancaster","Canada",40557,43.2181,-79.9872
+"Woodstock","Canada",40404,43.1334,-80.7497
+"Vernon","Canada",40116,50.2673,-119.273
+"Boucherville","Canada",39062,45.591,-73.4361
+"St. Thomas","Canada",38909,42.7736,-81.1804
+"Shawinigan","Canada",38211,46.5667,-72.7491
+"Dovercourt-Wallace Emerson-Junction","Canada",36625,43.6657,-79.4385
+"Spruce Grove","Canada",36135,53.5334,-113.919
+"Rock Forest","Canada",35500,45.357,-71.9968
+"Langford","Canada",35342,48.4496,-123.503
+"Prince Albert","Canada",35102,53.2001,-105.768
+"Downsview-Roding-CFB","Canada",35052,43.7333,-79.4905
+"Parkwoods-Donalda","Canada",34805,43.755,-79.3302
+"Joliette","Canada",34772,46.0164,-73.4236
+"Mascouche","Canada",34626,45.7496,-73.5996
+"Mirabel","Canada",34626,45.6501,-74.0825
+"Victoriaville","Canada",34426,46.0501,-71.9658
+"Brant","Canada",34415,43.1334,-80.3497
+"Mimico","Canada",33964,43.6162,-79.5127
+"Moose Jaw","Canada",33890,50.4001,-105.534
+"Penticton","Canada",33761,49.4806,-119.586
+"Campbell River","Canada",33430,50.0163,-125.245
+"West Humber-Clairville","Canada",33312,43.7162,-79.5964
+"Mission","Canada",33261,49.133,-122.303
+"Leamington","Canada",32991,42.0501,-82.5998
+"Mount Olive-Silverstone-Jamestown","Canada",32954,43.7469,-79.5873
+"Stratford","Canada",31465,43.3668,-80.9497
+"Lloydminster","Canada",31400,53.2724,-110.023
+"Cote-Saint-Luc","Canada",31395,45.4654,-73.6658
+"Church-Yonge Corridor","Canada",31340,43.6596,-79.379
+"Niagara","Canada",31180,43.6446,-79.4071
+"Saint-Georges","Canada",31173,46.1135,-70.6653
+"Orillia","Canada",31166,44.6087,-79.4207
+"Orangeville","Canada",30734,43.9168,-80.0997
+"Fort Erie","Canada",30710,42.9001,-78.9329
+"Annex","Canada",30526,43.6716,-79.404
+"Glenfield-Jane Heights","Canada",30491,43.7456,-79.5135
+"Pointe-Claire","Canada",30161,45.4487,-73.8167
+"Bendale","Canada",29960,43.7668,-79.2533
+"North Cowichan","Canada",29676,48.8413,-123.686
+"Mount Pleasant West","Canada",29658,43.7044,-79.3934
+"Alma","Canada",29526,48.5501,-71.6491
+"Agincourt North","Canada",29113,43.8042,-79.2753
+"Sainte-Julie","Canada",29019,45.5834,-73.3325
+"West Kelowna","Canada",28793,49.8625,-119.583
+"Sept-Iles","Canada",28534,50.2001,-66.3821
+"Wexford/Maryvale","Canada",27917,43.7486,-79.2986
+"South Riverdale","Canada",27876,43.6493,-79.3356
+"Banbury-Don Mills","Canada",27695,43.7377,-79.3497
+"York University Heights","Canada",27593,43.7657,-79.4889
+"Port Moody","Canada",27512,49.2812,-122.825
+"Tam O'Shanter-Sullivan","Canada",27446,43.7798,-79.295
+"West Hill","Canada",27392,43.7674,-79.1795
+"Saint-Constant","Canada",27359,45.3668,-73.5659
+"Grimsby","Canada",27314,43.2001,-79.5663
+"Dieppe","Canada",27304,46.0784,-64.6873
+"Don Valley Village","Canada",27051,43.7833,-79.3536
+"Clairlea-Birchmount","Canada",26984,43.7136,-79.2814
+"Milliken","Canada",26572,43.825,-79.2987
+"Boisbriand","Canada",26483,45.6168,-73.8325
+"Westminster-Branson","Canada",26274,43.7788,-79.4524
+"Cochrane","Canada",25853,51.1834,-114.469
+"Bay Street Corridor","Canada",25797,43.6575,-79.3857
+"Vaudreuil-Dorion","Canada",25789,45.4001,-74.0325
+"Thetford-Mines","Canada",25704,46.0937,-71.3054
+"Walnut Grove","Canada",25683,49.1647,-122.64
+"Courtenay","Canada",25599,49.6866,-124.994
+"Val-d'Or","Canada",25541,48.0974,-77.7974
+"Prince Edward","Canada",25496,44.0001,-77.2495
+"Sainte-Therese","Canada",25224,45.6392,-73.8276
+"Stonegate-Queensway","Canada",25051,43.6355,-79.5011
+"Dorset Park","Canada",25003,43.7539,-79.2822
+"Fallingbrook","Canada",25000,45.4756,-75.484
+"Airdrie","Canada",24673,51.3001,-114.035
+"Steeles","Canada",24623,43.812,-79.3308
+"Saint-Bruno-de-Montarville","Canada",24388,45.5334,-73.3492
+"Midland","Canada",24353,44.7501,-79.883
+"East Gwillimbury","Canada",23991,44.1009,-79.4379
+"High Park-Swansea","Canada",23925,43.6451,-79.4679
+"Brockville","Canada",23886,44.5913,-75.687
+"Newtonbrook West","Canada",23831,43.7858,-79.4314
+"Agincourt South-Malvern West","Canada",23757,43.7887,-79.2656
+"Langley","Canada",23606,49.1011,-122.659
+"Rouyn-Noranda","Canada",23504,48.2366,-79.0231
+"La Prairie","Canada",23357,45.4168,-73.4992
+"Whitehorse","Canada",23272,60.7161,-135.054
+"Bedford Park-Nortown","Canada",23236,43.7315,-79.4202
+"Tecumseh","Canada",23229,42.3168,-82.8998
+"Mount Pearl","Canada",23120,47.5166,-52.7813
+"Eglinton East","Canada",22776,43.7392,-79.2458
+"Chambly","Canada",22608,45.4501,-73.2825
+"Englemount-Lawrence","Canada",22372,43.7203,-79.4374
+"Birchcliffe-Cliffside","Canada",22291,43.6947,-79.2651
+"Rockcliffe-Smythe","Canada",22246,43.6748,-79.4944
+"Duncan","Canada",22199,48.7829,-123.703
+"High Park North","Canada",22162,43.6563,-79.4745
+"Willowridge-Martingrove-Richview","Canada",22156,43.6836,-79.5542
+"Kingsview Village-The Westway","Canada",22000,43.699,-79.5479
+"Flemingdon Park","Canada",21933,43.7181,-79.3322
+"South Parkdale","Canada",21849,43.6367,-79.4393
+"Collingwood","Canada",21793,44.4834,-80.2164
+"Black Creek","Canada",21737,43.7649,-79.522
+"Tsawwassen","Canada",21588,49.0167,-123.083
+"The Beaches","Canada",21567,43.6737,-79.2954
+"Baie-Comeau","Canada",21536,49.2168,-68.1489
+"Bayview Village","Canada",21396,43.7764,-79.3803
+"East End-Danforth","Canada",21381,43.6842,-79.2994
+"Lower Sackville","Canada",21379,44.776,-63.6786
+"Owen Sound","Canada",21341,44.5672,-80.9435
+"Oakwood Village","Canada",21210,43.6828,-79.4383
+"Uxbridge","Canada",21176,44.1001,-79.1163
+"Thorncliffe Park","Canada",21108,43.7077,-79.35
+"Keswick","Canada",21000,44.2501,-79.4663
+"Varennes","Canada",20994,45.6834,-73.4325
+"Rosedale-Moore Park","Canada",20923,43.6828,-79.3797
+"Clarence-Rockland","Canada",20790,45.5501,-75.291
+"Port Alberni","Canada",20712,49.2413,-124.803
+"Wasaga Beach","Canada",20675,44.5168,-80.0164
+"Moss Park","Canada",20506,43.655,-79.3715
+"Westmount","Canada",20494,45.4834,-73.5992
+"Kirkland","Canada",20491,45.4501,-73.8659
+"Lindsay","Canada",20354,44.3501,-78.7329
+"Fort St. John","Canada",20155,56.2499,-120.853
+"Cranbrook","Canada",20047,49.4999,-115.769
+"Cole Harbour","Canada",20000,44.6724,-63.4751
+"Saint-Lazare","Canada",19889,45.4001,-74.1326
+"Huntsville","Canada",19816,45.3334,-79.2163
+"Yellowknife","Canada",19569,62.4541,-114.372
+"Terrace","Canada",19443,54.5163,-128.603
+"North Battleford","Canada",19440,52.7797,-108.297
+"Beaconsfield","Canada",19194,45.4334,-73.8659
+"Dorval","Canada",18980,45.4473,-73.7533
+"Mont-Royal","Canada",18933,45.5168,-73.6492
+"Beloeil","Canada",18927,45.5684,-73.2057
+"Alliston","Canada",18809,44.1501,-79.8663
+"Thorold","Canada",18801,43.1168,-79.1996
+"Camrose","Canada",18742,53.0168,-112.835
+"Corner Brook","Canada",18693,48.95,-57.952
+"O'Connor-Parkview","Canada",18675,43.7068,-79.3122
+"New Glasgow","Canada",18665,45.5834,-62.6486
+"North St.James Town","Canada",18615,43.6696,-79.3753
+"Eringate-Centennial-West Deane","Canada",18588,43.658,-79.5804
+"Riviere-du-Loup","Canada",18586,47.827,-69.5424
+"Pitt Meadows","Canada",18573,49.2212,-122.69
+"Port Colborne","Canada",18306,42.9001,-79.2329
+"Cobourg","Canada",18099,43.9598,-78.1652
+"Oak Bay","Canada",18015,48.4496,-123.303
+"Weston","Canada",17992,43.7036,-79.5151
+"Kensington-Chinatown","Canada",17945,43.6535,-79.3972
+"Amos","Canada",17918,48.5669,-78.1162
+"St.Andrew-Windfields","Canada",17812,43.7562,-79.379
+"Brookhaven-Amesbury","Canada",17757,43.7013,-79.4856
+"Esquimalt","Canada",17655,48.4357,-123.412
+"Squamish","Canada",17587,49.6992,-123.156
+"Glace Bay","Canada",17556,46.1969,-59.957
+"Miramichi","Canada",17537,47.0289,-65.5019
+"Niagara-on-the-Lake","Canada",17511,43.2565,-79.0853
+"Victoria Village","Canada",17510,43.7285,-79.3149
+"Saint-Lin-Laurentides","Canada",17463,45.8501,-73.7659
+"Morningside","Canada",17455,43.7873,-79.2064
+"Valley East","Canada",17451,46.6677,-81.0003
+"Deux-Montagnes","Canada",17402,45.5345,-73.9017
+"Les Coteaux","Canada",17396,45.2834,-74.2325
+"Saint-Augustin-de-Desmaures","Canada",17281,46.7406,-71.4513
+"Petawawa","Canada",17187,45.8945,-77.2801
+"Danforth East York","Canada",17180,43.6895,-79.3314
+"Kennedy Park","Canada",17123,43.7227,-79.2605
+"Conception Bay South","Canada",17087,47.4999,-52.9981
+"Vanier","Canada",17000,45.4399,-75.665
+"Willowdale West","Canada",16936,43.7712,-79.4276
+"Hillcrest Village","Canada",16934,43.8049,-79.3544
+"Colwood","Canada",16859,48.4329,-123.486
+"Leaside-Bennington","Canada",16828,43.7038,-79.3661
+"Mount Pleasant East","Canada",16775,43.7048,-79.3849
+"Sainte-Catherine","Canada",16762,45.4001,-73.5825
+"Scarborough Village","Canada",16724,43.739,-79.2212
+"Buckingham","Canada",16685,45.5856,-75.4208
+"Swift Current","Canada",16604,50.2834,-107.801
+"Edmundston","Canada",16580,47.3737,-68.3251
+"Trinity-Bellwoods","Canada",16556,43.6479,-79.4085
+"L'Ancienne-Lorette","Canada",16516,46.7939,-71.3519
+"Clanton Park","Canada",16472,43.742,-79.4463
+"Yorkton","Canada",16343,51.2167,-102.468
+"Lutes Mountain","Canada",16311,46.1354,-64.905
+"Sainte-Catherine","Canada",16211,46.3184,-72.5663
+"Lansing-Westgate","Canada",16164,43.7543,-79.4248
+"Newtonbrook East","Canada",16097,43.7915,-79.4059
+"Bracebridge","Canada",16010,45.0334,-79.3163
+"Candiac","Canada",15947,45.3834,-73.5159
+"Cliffcrest","Canada",15935,43.7219,-79.2309
+"L'Assomption","Canada",15906,45.8232,-73.4294
+"Greater Napanee","Canada",15892,44.2501,-76.9494
+"Bathurst Manor","Canada",15873,43.7648,-79.4561
+"Steinbach","Canada",15829,49.5258,-96.6845
+"Pleasant View","Canada",15818,43.7861,-79.335
+"Henry Farm","Canada",15723,43.7695,-79.3524
+"Mont-Saint-Hilaire","Canada",15720,45.5652,-73.1868
+"Taylor-Massey","Canada",15683,43.695,-79.2959
+"Saint-Basile-le-Grand","Canada",15605,45.5334,-73.2825
+"Leduc","Canada",15561,53.2668,-113.552
+"Little Portugal","Canada",15559,43.6466,-79.4296
+"Magog","Canada",15550,45.2668,-72.1491
+"Humbermede","Canada",15545,43.7525,-79.5442
+"Edenbridge-Humber Valley","Canada",15535,43.6709,-79.5225
+"Lawrence Park South","Canada",15179,43.7172,-79.406
+"Kenora","Canada",15096,49.7674,-94.4899
+"le Plateau","Canada",15000,45.4351,-75.7803
+"Roncesvalles","Canada",14974,43.6489,-79.4502
+"Fort Saskatchewan","Canada",14957,53.6981,-113.214
+"Summerside","Canada",14829,46.3912,-63.7887
+"Okotoks","Canada",14826,50.7289,-113.983
+"Gaspe","Canada",14819,48.8334,-64.4819
+"Sylvan Lake","Canada",14816,52.311,-114.084
+"Matane","Canada",14812,48.8286,-67.522
+"Yorkdale-Glen Park","Canada",14804,43.7147,-79.4571
+"Prince Rupert","Canada",14708,54.3151,-130.321
+"Lawrence Park North","Canada",14607,43.7301,-79.404
+"Rayside-Balfour","Canada",14557,46.6087,-81.2076
+"Brooks","Canada",14451,50.5834,-111.885
+"Greenwood-Coxwell","Canada",14417,43.6804,-79.3266
+"Junction Area","Canada",14366,43.6679,-79.4714
+"Humewood-Cedarvale","Canada",14365,43.6914,-79.4277
+"Wychwood","Canada",14349,43.6776,-79.4218
+"Briar Hill-Belgravia","Canada",14257,43.699,-79.4529
+"Rosemere","Canada",14173,45.6334,-73.7992
+"Williams Lake","Canada",14168,52.1415,-122.145
+"Corso Italia-Davenport","Canada",14133,43.6777,-79.4475
+"Canmore","Canada",13992,51.0834,-115.352
+"Simcoe","Canada",13922,42.8334,-80.2997
+"Amherstburg","Canada",13910,42.1001,-83.0999
+"Pembroke","Canada",13882,45.8168,-77.1162
+"Oakridge","Canada",13845,43.6969,-79.2803
+"Palmerston-Little Italy","Canada",13826,43.6592,-79.4184
+"Thompson","Canada",13678,55.7435,-97.8558
+"Ionview","Canada",13641,43.7369,-79.2733
+"New Hamburg","Canada",13595,43.3834,-80.6997
+"Mount Dennis","Canada",13593,43.6869,-79.4892
+"Strathmore","Canada",13592,51.0501,-113.385
+"Sainte-Marie","Canada",13565,46.434,-71.0117
+"Mont-Laurier","Canada",13405,46.5501,-75.4993
+"Centennial Scarborough","Canada",13362,43.7824,-79.1508
+"Portage la Prairie","Canada",13304,49.9728,-98.2926
+"Powell River","Canada",13157,49.8328,-124.524
+"Bayview Woods-Steeles","Canada",13154,43.7968,-79.3821
+"North Perth","Canada",13130,43.7251,-80.9672
+"Lacombe","Canada",13057,52.4668,-113.735
+"Dolbeau-Mistassini","Canada",12916,48.8786,-72.2314
+"Salmon Arm","Canada",12875,50.6998,-119.302
+"Forest Hill North","Canada",12806,43.7042,-79.4281
+"Ingersoll","Canada",12757,43.0334,-80.883
+"Laurentides","Canada",12710,47.1334,-72.2824
+"Winkler","Canada",12660,49.1817,-97.941
+"Kentville","Canada",12636,45.0771,-64.496
+"Port Hope","Canada",12587,44.0168,-78.3995
+"Woodbine Corridor","Canada",12541,43.6784,-79.3157
+"Yonge-St.Clair","Canada",12528,43.6879,-79.3979
+"Elliot Lake","Canada",12508,46.3834,-82.6331
+"Highland Creek","Canada",12494,43.7907,-79.1756
+"Humber Summit","Canada",12416,43.7579,-79.575
+"Aldergrove","Canada",12363,49.058,-122.471
+"Gravenhurst","Canada",12312,44.9168,-79.3663
+"Paris","Canada",12310,43.2,-80.3833
+"Truro","Canada",12261,45.3669,-63.2654
+"Grand Falls-Windsor","Canada",12076,48.9332,-55.6649
+"Alderwood","Canada",12054,43.6035,-79.546
+"Parksville","Canada",12000,49.3195,-124.316
+"Queenswood Heights","Canada",12000,45.4708,-75.5056
+"Beauharnois","Canada",11918,45.3134,-73.8725
+"North Riverdale","Canada",11916,43.672,-79.3513
+"Carleton Place","Canada",11901,45.1334,-76.1494
+"Bathurst","Canada",11897,47.6181,-65.6511
+"Etobicoke West Mall","Canada",11848,43.6464,-79.5698
+"Yonge-Eglinton","Canada",11817,43.7047,-79.4036
+"Dufferin Grove","Canada",11785,43.6577,-79.4279
+"Montmagny","Canada",11724,46.9804,-70.5549
+"Gander","Canada",11688,48.9562,-54.6165
