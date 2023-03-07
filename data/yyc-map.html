@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ac0b9f019541ee9ad02cb69bfef0bf5a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ac0b9f019541ee9ad02cb69bfef0bf5a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ac0b9f019541ee9ad02cb69bfef0bf5a = L.map(
+                "map_ac0b9f019541ee9ad02cb69bfef0bf5a",
+                {
+                    center: [51.0447, -114.0719],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_7059f4ffde72beb2ead89a216d4780f8 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+            var marker_d2291936ae829b3019281f488fc2b583 = L.marker(
+                [51.0447, -114.0719],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_7efc8835ccde5aaffc4974fe95c62493 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_59bceb71c23eb838378f286923e89368 = $(`<div id="html_59bceb71c23eb838378f286923e89368" style="width: 100.0%; height: 100.0%;">Welcome to Calgary!</div>`)[0];
+                popup_7efc8835ccde5aaffc4974fe95c62493.setContent(html_59bceb71c23eb838378f286923e89368);
+            
+        
+
+        marker_d2291936ae829b3019281f488fc2b583.bindPopup(popup_7efc8835ccde5aaffc4974fe95c62493)
+        ;
+
+        
+    
+    
+            var marker_63d73ee441b8ee856506ba38ab6b405d = L.marker(
+                [51.052585300000004, -114.06841129669907],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_32d328ac7319b5872eb39995a2da4cd5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ef974c74ba54acfcd0baee358d6d2924 = $(`<div id="html_ef974c74ba54acfcd0baee358d6d2924" style="width: 100.0%; height: 100.0%;">Eau Claire Market</div>`)[0];
+                popup_32d328ac7319b5872eb39995a2da4cd5.setContent(html_ef974c74ba54acfcd0baee358d6d2924);
+            
+        
+
+        marker_63d73ee441b8ee856506ba38ab6b405d.bindPopup(popup_32d328ac7319b5872eb39995a2da4cd5)
+        ;
+
+        
+    
+    
+            var marker_d271de723b6898ee3913917a5444b53e = L.marker(
+                [51.04429425, -114.0631321025624],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_389259e0f8b23681013343b1f37d3bb3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c1b660719101eca00ed2e5ae0fcbb275 = $(`<div id="html_c1b660719101eca00ed2e5ae0fcbb275" style="width: 100.0%; height: 100.0%;">Calgary Tower</div>`)[0];
+                popup_389259e0f8b23681013343b1f37d3bb3.setContent(html_c1b660719101eca00ed2e5ae0fcbb275);
+            
+        
+
+        marker_d271de723b6898ee3913917a5444b53e.bindPopup(popup_389259e0f8b23681013343b1f37d3bb3)
+        ;
+
+        
+    
+    
+            var marker_9bda97409818307211e1ede9b31a4e28 = L.marker(
+                [51.04834645, -114.06888844483305],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_81be4fa6f41403f93b3d6e33458e634d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_15d0e2e1d3c87cbdd68876f42dad9ac8 = $(`<div id="html_15d0e2e1d3c87cbdd68876f42dad9ac8" style="width: 100.0%; height: 100.0%;">Calgary petroleum Club</div>`)[0];
+                popup_81be4fa6f41403f93b3d6e33458e634d.setContent(html_15d0e2e1d3c87cbdd68876f42dad9ac8);
+            
+        
+
+        marker_9bda97409818307211e1ede9b31a4e28.bindPopup(popup_81be4fa6f41403f93b3d6e33458e634d)
+        ;
+
+        
+    
+    
+            var marker_c4b04fa210475a0ebce026d0ad0abede = L.marker(
+                [51.0451291, -114.06125694165596],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_78bfeb445ad0ca0a74436a308534bff5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1d459590199fca746fed9f334d651b87 = $(`<div id="html_1d459590199fca746fed9f334d651b87" style="width: 100.0%; height: 100.0%;">Glenbow Museum</div>`)[0];
+                popup_78bfeb445ad0ca0a74436a308534bff5.setContent(html_1d459590199fca746fed9f334d651b87);
+            
+        
+
+        marker_c4b04fa210475a0ebce026d0ad0abede.bindPopup(popup_78bfeb445ad0ca0a74436a308534bff5)
+        ;
+
+        
+    
+    
+            var marker_93e1e4f96a71ff2d34b7b05ccb123045 = L.marker(
+                [51.055184600000004, -114.07064863715895],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_6f7aae2c5b05e848900540f0d3ac528d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e12dcbd7e06e0634ec24e1ed0ee8ec49 = $(`<div id="html_e12dcbd7e06e0634ec24e1ed0ee8ec49" style="width: 100.0%; height: 100.0%;">Prince's Island Park</div>`)[0];
+                popup_6f7aae2c5b05e848900540f0d3ac528d.setContent(html_e12dcbd7e06e0634ec24e1ed0ee8ec49);
+            
+        
+
+        marker_93e1e4f96a71ff2d34b7b05ccb123045.bindPopup(popup_6f7aae2c5b05e848900540f0d3ac528d)
+        ;
+
+        
+    
+    
+            var marker_9ee6a04abc5aeb0b7b715a54c40842e9 = L.marker(
+                [51.04785795, -114.06194109556526],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_8942aa2b1e91f3e21bedf4469ea7e08a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5531e67d449ec4fe1ed258156f11dd6e = $(`<div id="html_5531e67d449ec4fe1ed258156f11dd6e" style="width: 100.0%; height: 100.0%;">The Bow</div>`)[0];
+                popup_8942aa2b1e91f3e21bedf4469ea7e08a.setContent(html_5531e67d449ec4fe1ed258156f11dd6e);
+            
+        
+
+        marker_9ee6a04abc5aeb0b7b715a54c40842e9.bindPopup(popup_8942aa2b1e91f3e21bedf4469ea7e08a)
+        ;
+
+        
+    
+    
+            var marker_27ee7e71227753be3a58cab1940cbabc = L.marker(
+                [51.044599500000004, -114.0530584015969],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_254164c7b8d92023539156b2375711c8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_53255c4be17bc1610189a3bb19bd9c6a = $(`<div id="html_53255c4be17bc1610189a3bb19bd9c6a" style="width: 100.0%; height: 100.0%;">Studio Bell</div>`)[0];
+                popup_254164c7b8d92023539156b2375711c8.setContent(html_53255c4be17bc1610189a3bb19bd9c6a);
+            
+        
+
+        marker_27ee7e71227753be3a58cab1940cbabc.bindPopup(popup_254164c7b8d92023539156b2375711c8)
+        ;
+
+        
+    
+    
+            var marker_05e768c73a851f0ded59957d88ff66e6 = L.marker(
+                [51.0453641, -114.0455893899853],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_9334d7497b227070d604d6f1299a6119 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7f0b2d345918b98d6f231b7c0790bf7f = $(`<div id="html_7f0b2d345918b98d6f231b7c0790bf7f" style="width: 100.0%; height: 100.0%;">Fort Calgary</div>`)[0];
+                popup_9334d7497b227070d604d6f1299a6119.setContent(html_7f0b2d345918b98d6f231b7c0790bf7f);
+            
+        
+
+        marker_05e768c73a851f0ded59957d88ff66e6.bindPopup(popup_9334d7497b227070d604d6f1299a6119)
+        ;
+
+        
+    
+    
+            var marker_acffc0286a5c76c80c698569e24c3dd6 = L.marker(
+                [51.03642725, -114.07694984075414],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_6c724d67157d7ff9bc96d1c2f2040f3e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9b0ca10b67a27f991f99c72e1af73366 = $(`<div id="html_9b0ca10b67a27f991f99c72e1af73366" style="width: 100.0%; height: 100.0%;">Western Canada High School</div>`)[0];
+                popup_6c724d67157d7ff9bc96d1c2f2040f3e.setContent(html_9b0ca10b67a27f991f99c72e1af73366);
+            
+        
+
+        marker_acffc0286a5c76c80c698569e24c3dd6.bindPopup(popup_6c724d67157d7ff9bc96d1c2f2040f3e)
+        ;
+
+        
+    
+    
+            var marker_6385936c6436275e27d51311fade830f = L.marker(
+                [51.0459295, -114.05909328946312],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_6ac04f35614c53a5a53d373b813c24ef = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_069cc0fdc38a4d31c1131b7550810845 = $(`<div id="html_069cc0fdc38a4d31c1131b7550810845" style="width: 100.0%; height: 100.0%;">Olympic Plaza</div>`)[0];
+                popup_6ac04f35614c53a5a53d373b813c24ef.setContent(html_069cc0fdc38a4d31c1131b7550810845);
+            
+        
+
+        marker_6385936c6436275e27d51311fade830f.bindPopup(popup_6ac04f35614c53a5a53d373b813c24ef)
+        ;
+
+        
+    
+    
+            var marker_5efda1f3a1a93ad6b47130124a99d16c = L.marker(
+                [51.0462283, -114.068758],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_048cd55d3c3f9f4ee03342cf4adf397e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_55f27b4fb68f9a596b48fd6fe1ac1910 = $(`<div id="html_55f27b4fb68f9a596b48fd6fe1ac1910" style="width: 100.0%; height: 100.0%;">Devonian Gardens</div>`)[0];
+                popup_048cd55d3c3f9f4ee03342cf4adf397e.setContent(html_55f27b4fb68f9a596b48fd6fe1ac1910);
+            
+        
+
+        marker_5efda1f3a1a93ad6b47130124a99d16c.bindPopup(popup_048cd55d3c3f9f4ee03342cf4adf397e)
+        ;
+
+        
+    
+    
+            var marker_6446c5998c541a9e1ad0c494dc8f0c34 = L.marker(
+                [51.04232974999999, -114.08008799651199],
+                {}
+            ).addTo(map_ac0b9f019541ee9ad02cb69bfef0bf5a);
+        
+    
+        var popup_6562e15a179c6fc7961fe342043bd7ed = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b1bdfffa864c57825a11cb5c0b1d790b = $(`<div id="html_b1bdfffa864c57825a11cb5c0b1d790b" style="width: 100.0%; height: 100.0%;">Safeway beltline</div>`)[0];
+                popup_6562e15a179c6fc7961fe342043bd7ed.setContent(html_b1bdfffa864c57825a11cb5c0b1d790b);
+            
+        
+
+        marker_6446c5998c541a9e1ad0c494dc8f0c34.bindPopup(popup_6562e15a179c6fc7961fe342043bd7ed)
+        ;
+
+        
+    
+</script>
+</html>
